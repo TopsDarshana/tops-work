@@ -1,0 +1,3 @@
+// Explain types ofsoftware
+
+ans:
